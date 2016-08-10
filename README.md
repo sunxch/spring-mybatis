@@ -1,3 +1,3 @@
-# ssh-web
-struts spring hibernate
+# spring-mybatis
+spring-mybatis
 
